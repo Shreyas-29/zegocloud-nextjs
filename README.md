@@ -1,8 +1,7 @@
 # ChatMe - Voice and Video Calling WebApp
 
 <!-- <img src="https://github.com/user-attachments/assets/deab03fd-4234-44c3-a6ad-484c4a1a02a1" alt="Linkify Thubmnail"> -->
-<img src="https://github.com/user-attachments/assets/0ff7129e-2f5d-48ae-913d-d4fd1507e613" alt="Luro Thumbnail" style="border-radius: 12px;" width="1280">
-![Chatme Thumbnail](https://github.com/user-attachments/assets/55b9afeb-89de-4e16-9437-683c5d970a6d)
+<img src="https://github.com/user-attachments/assets/55b9afeb-89de-4e16-9437-683c5d970a6d" alt="Luro Thumbnail" style="border-radius: 12px;" width="1280">
 
 
 ## 🌟 Introduction
