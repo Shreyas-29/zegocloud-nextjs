@@ -9,7 +9,7 @@ Let's build a realtime video calling webapp using Next.js 15 and ZEGOCLOUD
 
 ## 🎥 Watch Demo on YouTube
 
-Check out the tutorial to see how this social media marketing platform was built: [Watch the Tutorial](https://youtu.be/q8mOwYrpAHA?si=XpGy9VIKkaWJmfPL) 💻 
+Check out the tutorial to see how this social media marketing platform was built: [Watch the Tutorial](https://youtu.be/Eb914F5748M?si=rZ-4og1KXchBIF8j) 💻 
 
 ## 💻 Tech Stack
 
